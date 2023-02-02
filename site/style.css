@@ -1,0 +1,28 @@
+html {
+    background-color: aquamarine;
+    font-family: Calibri;
+    font-size: large;
+    margin-left: 20%;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+h2 {
+    color: #053660;
+}
+
+h3 {
+    color: #9e1616;
+}
+
+img {
+    width: 500px;
+    border: 3px solid gold;
+}
+
+a:hover {
+    color: #9e1616;
+    font-size: 35px;
+}
